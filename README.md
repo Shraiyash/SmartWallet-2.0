@@ -1,5 +1,7 @@
 Welcome to the Smart Wallet 2.0, a decentralized application (dApp) built using Solidity. This is version 2 of the basic smart wallet that demonstrates the functionality of a more secure, owner-driven wallet capable of receiving funds, managing transfers, and providing additional features such as transfer restrictions, ownership transfers, and voting mechanisms.
 
+<img width="1457" alt="Smart Wallet 2 0" src="https://github.com/user-attachments/assets/ccebf8f3-074b-44ce-b13b-4dc71ef7c407" />
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features
 	
